@@ -22,6 +22,8 @@ being trapped in one person's head or a chat history that scrolls away.
 | `ROADMAP.md` | Committed next work with acceptance criteria (what you WILL build). | Every project |
 | `IDEAS.md` | Running backlog of "nice-to-have" sparks (what you MIGHT build). | Every project |
 | `HANDOFF.md` | Session-to-session continuity — where we left off, what's next. The successor to ad-hoc SESSION_NOTES. | Every project |
+| `RELEASING.md` | The versioned-release procedure — annotated tag on HEAD per version, semver, approval gate. | Every project |
+| `CHANGELOG.md` | Permanent per-version history of what shipped (Added/Fixed/Changed). | Every project |
 
 ### Add project-specific docs as needed
 Some projects need docs beyond the standard set — keep the same "header block +

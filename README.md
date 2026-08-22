@@ -37,6 +37,9 @@ Delete this comment block once the README holds real content.
 [IDEAS.md](./IDEAS.md) (backlog of maybes) ·
 [HANDOFF.md](./HANDOFF.md) (where we left off / what's next).
 
+**Releasing:** [RELEASING.md](./RELEASING.md) (tag-per-version procedure) ·
+[CHANGELOG.md](./CHANGELOG.md) (what shipped, per version).
+
 ## Tech stack
 
 - <language / framework / datastore / key libraries — decided, not aspirational>
