@@ -34,7 +34,8 @@ Delete this comment block once the README holds real content.
 | 5 | [DESIGN.md](./DESIGN.md) | UI/UX spec + design tokens. |
 
 **Planning:** [ROADMAP.md](./ROADMAP.md) (committed next work) ·
-[IDEAS.md](./IDEAS.md) (backlog of maybes).
+[IDEAS.md](./IDEAS.md) (backlog of maybes) ·
+[HANDOFF.md](./HANDOFF.md) (where we left off / what's next).
 
 ## Tech stack
 

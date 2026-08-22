@@ -21,6 +21,7 @@ being trapped in one person's head or a chat history that scrolls away.
 | `DESIGN.md` | UI/UX spec + design tokens (colors, spacing, type). | Any project with a UI |
 | `ROADMAP.md` | Committed next work with acceptance criteria (what you WILL build). | Every project |
 | `IDEAS.md` | Running backlog of "nice-to-have" sparks (what you MIGHT build). | Every project |
+| `HANDOFF.md` | Session-to-session continuity — where we left off, what's next. The successor to ad-hoc SESSION_NOTES. | Every project |
 
 ### Add project-specific docs as needed
 Some projects need docs beyond the standard set — keep the same "header block +
